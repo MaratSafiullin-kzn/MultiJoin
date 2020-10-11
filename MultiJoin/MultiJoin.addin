@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RevitAddIns>
+  <AddIn Type="Application">
+    <Name>Application MultiJoin</Name>
+    <Assembly>MultiJoin.dll</Assembly>
+    <FullClassName>MultiJoin.App</FullClassName>
+    <ClientId>e448f3b8-af35-497d-a875-f8e4870f4862</ClientId>
+    <VendorId>ru.gap-rt</VendorId>
+    <VendorDescription>AO Казанский Гипронииавиапром, http://gap-rt.ru</VendorDescription>
+  </AddIn>
+</RevitAddIns>
